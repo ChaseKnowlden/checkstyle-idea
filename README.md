@@ -2,7 +2,7 @@
 
 &copy; Copyright 2006-2021 CheckStyle-IDEA Contributors
 
-Hosted on [GitHub](https://github.com/jshiell/checkstyle-idea)
+Hosted on [GitHub](https://github.com/ChaseKnowlden/checkstyle-idea)
 
 [![Build Status](https://github.com/jshiell/checkstyle-idea/workflows/Build/badge.svg)](https://github.com/jshiell/checkstyle-idea/actions?query=workflow%3A%22Build%22)
 [![Code Quality: Java](https://img.shields.io/lgtm/grade/java/g/jshiell/checkstyle-idea.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/jshiell/checkstyle-idea/context:java)
